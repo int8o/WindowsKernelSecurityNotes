@@ -1,0 +1,7 @@
+BUILD: Computing Include file dependencies:
+BUILD: Examining c:\users\liuwanjie\desktop\driver\copyfile\copyfile directory for files to compile.
+oacr invalidate root:x86chk /autocleanqueue
+1>Compiling and Linking c:\users\liuwanjie\desktop\driver\copyfile\copyfile *************
+1>'nmake.exe /nologo BUILDMSG=Stop. -i /nologo /f d:\winddk\7600.16385.1\bin\makefile.def BUILD_PASS=PASS2 LINKONLY=1 NOPASS0=1 MAKEDIR_RELATIVE_TO_BASEDIR='
+1> D:\WINDDK\7600.16385.1\Bin\x86\oacr\oacrcl @c:\users\liuwanjie\desktop\driver\copyfile\copyfile\objchk_win7_x86\i386\cl.rsp
+1> D:\WINDDK\7600.16385.1\Bin\x86\oacr\oacrlink /out:c:\users\liuwanjie\desktop\driver\copyfile\copyfile\objchk_win7_x86\i386\CopyFile.sys /machine:ix86 @c:\users\liuwanjie\desktop\driver\copyfile\copyfile\objchk_win7_x86\i386\lnk.rsp

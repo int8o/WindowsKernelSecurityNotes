@@ -1,0 +1,5 @@
+TARGETNAME=CopyFile
+TARGETTYPE=DRIVER
+
+SOURCES=stdafx.c \
+	CopyFile.c
